@@ -52,10 +52,10 @@
 	<code><img width="20" src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" alt="Nginx" title="Nginx"/></code>
 	<code><img width="20" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/></code>
 	<code><img width="20" src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" alt="Vite" title="Vite"/></code>
-	<img width="20" src="https://cdn.simpleicons.org/openai" alt="Codex" title="Codex"/></code>
 <code><img width="20" src="https://cdn.simpleicons.org/cursor" alt="Cursor" title="Cursor"/></code>
 <code><img width="20" src="https://cdn.simpleicons.org/windsurf" alt="Windsurf" title="Windsurf"/></code>
 <code><img width="20" src="https://cdn.simpleicons.org/deepseek" alt="DeepSeek" title="DeepSeek"/></code>
 <code><img width="20" src="https://cdn.simpleicons.org/claude" alt="Claude AI" title="Claude AI"/></code>
-<code><img width="20" src="https://cdn.simpleicons.org/openai" alt="OpenAI" title="OpenAI"/></code>
+	<code><img width="20" height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg" alt="Codex" title="Codex"/></code>
+<code><img width="20" height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg" alt="OpenAI" title="OpenAI"/></code>
 </div>
