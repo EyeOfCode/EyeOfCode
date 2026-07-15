@@ -57,5 +57,5 @@
 <code><img width="20" src="https://cdn.simpleicons.org/deepseek" alt="DeepSeek" title="DeepSeek"/></code>
 <code><img width="20" src="https://cdn.simpleicons.org/claude" alt="Claude AI" title="Claude AI"/></code>
 <code><img width="20" height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg" alt="OpenAI" title="OpenAI"/></code>
-<code><img width="20" height="20" src="https://api.dashboardicons.com/icons/external/hermesagent/svg" alt="Hermes Agent" title="Hermes Agent"/></code>
+<code><img width="20" height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Caduceus.svg/64px-Caduceus.svg.png" alt="Hermes Agent" title="Hermes Agent"/></code>
 </div>
